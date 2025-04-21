@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @syedrahim22
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Swift
+- I know spring boot
 
 <!---
 syedrahim22/syedrahim22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
